@@ -26,7 +26,7 @@ include 'header.php';
                         <div class="card-body" style="font-family: '2';">
                             <h5 class="card-title">XIII SIJA</h5>
                         </div>
-                        <a class="btn btn-outline-primary btn-sm" href="assets/img/jadwal/33.png">Zoom</a>
+                        <a class="btn btn-outline-primary btn-sm" href="assets/img/jadwal/49.png">Zoom</a>
                     </div>
                 </div>
                 <div class="col-sm-6 mt-3" style="width: 25rem;">
