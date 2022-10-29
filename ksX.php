@@ -37,19 +37,19 @@ include 'header.php';
                 <tr>
                     <td scope="row">202121051</td>
                     <td>Indra Darma Saputra</td>
-                    <td>XII</td>
+                    <td>X</td>
                     <td>RPL</td>
                 </tr>
                 <tr>
                     <td scope="row">202121051</td>
                     <td>Lorem, ipsum dolor.</td>
-                    <td>XII</td>
+                    <td>X</td>
                     <td>RPL</td>
                 </tr>
                 <tr>
                     <td scope="row">202121051</td>
                     <td>Lorem, ipsum dolor.</td>
-                    <td>XII</td>
+                    <td>X</td>
                     <td>RPL</td>
                 </tr>
             </tbody>
