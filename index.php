@@ -74,7 +74,6 @@
                             </div>
 
 
-
                             <div class="d-grid gap-2 mt-3">
                                 <button id="btn-login" class="btn btn-primary">MASUK</button>
                             </div>
@@ -87,10 +86,6 @@
                                             class="text-decoration-none">Daftar akun?</a></span>
                                 </div>
                             </div>
-
-                            <input type="hidden" name="lt" value="LT-24523391-4SmpAh0ViuJRT3sNHtbyThYxVbVUE0">
-                            <input type="hidden" name="execution" value="e1s1">
-                            <input type="hidden" name="_eventId" value="submit">
                         </form>
 
                         <p style="font-size: x-small; color: grey;" class="mb-0 mt-5">
