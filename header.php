@@ -34,7 +34,6 @@
         <div class="d-flex align-items-center p-3">
             <img src="assets/img/logo.png" width="80" alt=""> &nbsp;
             <a href="#" class="sidebar-logo text-uppercase fw-bold text-decoration-none text-indigo fs-4">SMKN 1 Jakarta</a>
-            <i class="sidebar-toggle ri-arrow-left-circle-line ms-auto fs-5 d-none d-md-block"></i>
         </div>
         <ul class="sidebar-menu p-3 m-0 mb-0">
             <li class="sidebar-menu-item active">
